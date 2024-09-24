@@ -1,3 +1,5 @@
+![image info](./data/Images/slc.jpg)
+
 # SLCImageClassification
 Example of image classification using Python in SLC, Ut.
 
